@@ -1,8 +1,8 @@
-## Download and setup ObjectDetection
+## Download and setup ObjectTracking
 
 ## Virtual Environments (optional)
 
-We highly recommend installing `ObjectDetection` and its dependencies in a
+We highly recommend installing `ObjectTracking` and its dependencies in a
 [`venv`](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/) Python virtual
 environment. Just copy-paste the following snippet to create a virtual
 environment:
@@ -41,11 +41,11 @@ source env/bin/activate
 source in-toto-demo/bin/activate
 ```
 
-**Get demo files and install in ObjectDetection**
+**Get demo files and install in ObjectTracking**
 
 ```bash
 # Fetch the demo repo using git
-git clone https://github.com/Stapan17/Object-detection.git
+git clone https://github.com/Rushijaviya/Object-Tracking.git
 
 # Change into the demo directory
 cd ObjectTracking
